@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=190&section=header&text=AKHIL%20BUDDHI&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Akhil Buddhi Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=190&section=header&text=AKHIL%20BUDDHI&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Akhil Buddhi Header"/>
 </a>
 
 <br/>
@@ -13,7 +13,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-ECE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.38-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-Fundamentals-312E81?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyderabad-Telangana-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
