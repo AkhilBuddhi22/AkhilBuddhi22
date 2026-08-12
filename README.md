@@ -1,35 +1,35 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=190&section=header&text=AKHIL%20BUDDHI&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Akhil Buddhi Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,45:4C1D95,75:6D28D9,100:312E81&height=190&section=header&text=AKHIL%20BUDDHI&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=20&descColor=C4B5FD&animation=fadeIn" alt="Akhil Buddhi"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Graduate;Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer+%7C+Cloud+Enthusiast;Building+Scalable+AI-Powered+Web+Applications;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Frontend+%7C+Backend+%7C+Databases;Java+%7C+JavaScript+%7C+Python;Cloud+%7C+DevOps+%7C+Web+Development;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-ECE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Fundamentals-312E81?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hyderabad-Telangana-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECE-Engineering-4C1D95?style=for-the-badge&logo=electricalengineering&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/AkhilBuddhi22">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/akhil-buddhi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:akhilbuddhi22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/AkhilBuddhi22">
-  <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -40,25 +40,21 @@
 
 </div>
 
-<!-- Resume source: -->
-
 ---
 
 ## ABOUT
 
-I am an **Engineering graduate specialized in Electronics and Communication Engineering**, with a strong software engineering focus across **Python, Java, JavaScript, full-stack web development, AI/ML, cloud technologies, and DevOps tooling**.
+I am a **Full Stack Developer** with an engineering background and hands-on experience building modern web applications, backend services, databases, cloud-based solutions, and interactive software applications.
 
-My experience includes building **scalable AI-powered web applications, GUI-based implementations, command-line applications, and real-world project solutions**. I enjoy transforming technical requirements into efficient, maintainable software while continuously strengthening my problem-solving and algorithmic skills.
+I work across the complete development lifecycle — from designing responsive interfaces and developing RESTful APIs to database integration, authentication, deployment, debugging, and performance optimization.
 
-I bring a combination of **software engineering fundamentals, competitive programming experience, machine learning, full-stack development, and cloud knowledge**, with a strong focus on learning quickly, collaborating effectively, and delivering practical software solutions.
+My development experience includes **Java, Python, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, AWS, Azure, and Git**.
 
-### ENGINEERING INTERESTS
-
-`Full Stack Web Development` · `Machine Learning` · `Competitive Coding` · `Cloud Computing` · `Software Engineering` · `VLSI`
+I enjoy solving complex programming problems, building practical products, and continuously improving my development skills through competitive programming and project-based learning.
 
 ### OPEN TO
 
-`Software Engineering` · `AI/ML Engineering` · `Full Stack Development` · `Backend Engineering` · `Cloud Engineering` · `Product Engineering` · `Open Source Collaboration`
+`Full Stack Development` · `Frontend Development` · `Backend Development` · `Web Development` · `Cloud Development` · `Open Source Collaboration`
 
 ---
 
@@ -67,41 +63,42 @@ I bring a combination of **software engineering fundamentals, competitive progra
 ### LANGUAGES
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,matlab&theme=dark" alt="Languages"/>
 </p>
 
 ### FRONTEND
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend"/>
 </p>
 
 ### BACKEND & DATABASES
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend and Databases"/>
 </p>
 
 ### CLOUD, DEVOPS & TOOLING
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode&theme=dark" alt="Cloud and DevOps"/>
 </p>
 
 ---
 
-## AI / ML EXPERTISE
+## FULL STACK EXPERTISE
 
-| Domain                     |  Proficiency | Details                                                                                         |
-| :------------------------- | :----------: | :---------------------------------------------------------------------------------------------- |
-| Machine Learning           |   Advanced   | Classification, preprocessing, feature scaling, cross-validation and model evaluation           |
-| Classification             |   Advanced   | Logistic Regression, Random Forest and SVM-based classification                                 |
-| Model Evaluation           |   Advanced   | Precision, recall, F1-score, cross-validation and hyperparameter tuning                         |
-| Python for AI/ML           |   Advanced   | Python-based machine learning development and data processing                                   |
-| AI Application Development |   Advanced   | Integration of AI APIs into practical web applications                                          |
-| Generative AI              | Intermediate | OpenAI API and Gemini API integration for intelligent application features                      |
-| Data Science               | Intermediate | Applied data science through machine learning project development and internship experience     |
-| Applied AI                 |   Advanced   | Building AI-powered products including resume generation, recommendation and prediction systems |
+| Domain                 |  Proficiency | Details                                                                   |
+| :--------------------- | :----------: | :------------------------------------------------------------------------ |
+| Frontend Development   |   Advanced   | React.js, Next.js, HTML, CSS, Tailwind CSS and responsive UI development  |
+| Backend Development    |   Advanced   | Node.js, Express.js, RESTful APIs and server-side application development |
+| Database Development   |   Advanced   | MongoDB, MySQL and PostgreSQL                                             |
+| JavaScript Development |   Advanced   | Modern JavaScript, component-based development and web application logic  |
+| Java Development       | Intermediate | Object-oriented programming, problem solving and application development  |
+| Python Development     |   Advanced   | CLI applications, GUI applications and practical software development     |
+| API Integration        |   Advanced   | REST APIs, OpenAI API and Gemini API integration                          |
+| Cloud & DevOps         | Intermediate | AWS, Azure, Git and deployment-oriented development                       |
+| Problem Solving        |   Advanced   | Data structures, algorithms and competitive programming                   |
 
 ---
 
@@ -110,83 +107,93 @@ I bring a combination of **software engineering fundamentals, competitive progra
 <details>
 <summary><strong>01 · ResuMate — AI-Powered Resume Builder</strong></summary>
 
+<br/>
+
 ### ResuMate
 
-An AI-powered resume builder designed to generate **ATS-friendly resumes** using intelligent content suggestions based on user inputs and targeted job roles.
+An AI-powered resume builder built using the **MERN stack** that generates ATS-friendly resumes with intelligent content suggestions based on user inputs and job roles.
 
-| Metric          | Engineering Details                                                                     |
-| :-------------- | :-------------------------------------------------------------------------------------- |
-| **Stack**       | MongoDB · Express.js · React.js · Node.js · HTML/CSS · OpenAI API                       |
-| **Scale**       | Full-stack MERN application with AI-powered content generation                          |
-| **Performance** | Dynamic form handling and real-time resume preview                                      |
-| **Security**    | Secure authentication with RESTful backend APIs                                         |
-| **Impact**      | Generates professional summaries, skill descriptions and optimized resume bullet points |
-| **Repository**  | [View Repository](https://github.com/AkhilBuddhi22)                                     |
+| Metric          | Engineering Details                                                                |
+| :-------------- | :--------------------------------------------------------------------------------- |
+| **Stack**       | MongoDB · Express.js · React.js · Node.js · HTML/CSS · OpenAI API                  |
+| **Scale**       | Full-stack web application with frontend, backend, database and AI API integration |
+| **Performance** | Dynamic form handling and real-time resume preview                                 |
+| **Security**    | Secure authentication and RESTful API architecture                                 |
+| **Impact**      | Automates resume content generation and improves job-specific resume customization |
+| **Repository**  | [View Repository](https://github.com/AkhilBuddhi22)                                |
 
-### Professional Engineering Explanation
+### Professional Project Explanation
 
-ResuMate combines a **MERN full-stack architecture with generative AI capabilities** to automate and improve the resume-building workflow.
+ResuMate is a complete full-stack application designed to simplify professional resume creation.
 
-The frontend uses React.js for dynamic form handling and real-time resume preview, while Node.js and Express.js provide RESTful APIs. MongoDB handles application data, and the OpenAI API generates tailored professional content based on user inputs and job descriptions.
+The React frontend provides dynamic form handling and real-time resume previews. Node.js and Express.js expose RESTful APIs, while MongoDB manages application data.
 
-**Engineering Focus:**
-`MERN` · `REST APIs` · `OpenAI API` · `Authentication` · `Dynamic UI` · `AI Content Generation`
+The OpenAI API is integrated to generate professional summaries, skill descriptions, and optimized bullet points tailored to specific job descriptions.
+
+**Core Engineering:**
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `Authentication` · `OpenAI API`
 
 </details>
 
 <details>
-<summary><strong>02 · Cooksy — AI-Powered Recipe Platform</strong></summary>
+<summary><strong>02 · Cooksy — AI Recipe Platform</strong></summary>
+
+<br/>
 
 ### Cooksy
 
-A smart AI-powered recipe platform that provides **personalized recipe recommendations** based on user preferences, ingredients and dietary requirements.
+A smart recipe platform built with modern web technologies that provides personalized recipes based on user preferences, available ingredients, and dietary needs.
 
 | Metric          | Engineering Details                                                         |
 | :-------------- | :-------------------------------------------------------------------------- |
 | **Stack**       | Next.js · React.js · Strapi · PostgreSQL · Tailwind CSS · Gemini API        |
-| **Scale**       | Modern full-stack AI-powered web application                                |
-| **Performance** | Dynamic recipe generation and responsive frontend                           |
-| **Security**    | Structured backend integration and controlled application data flow         |
-| **Impact**      | Provides personalized recipe discovery and ingredient-based recommendations |
+| **Scale**       | Full-stack web application with structured backend and AI integration       |
+| **Performance** | Dynamic recipe generation, ingredient search and responsive UI              |
+| **Security**    | Structured backend integration and controlled data flow                     |
+| **Impact**      | Helps users discover personalized recipes using intelligent recommendations |
 | **Repository**  | [View Repository](https://github.com/AkhilBuddhi22)                         |
 
-### Professional Engineering Explanation
+### Professional Project Explanation
 
-Cooksy combines modern frontend technologies with a structured backend and generative AI to create a personalized recipe discovery experience.
+Cooksy combines a modern frontend architecture with a structured backend and Gemini API integration.
 
-The platform supports **ingredient-based search, dynamic recipe generation, personalized recommendations, and responsive UI interactions**, while Gemini API integration enables intelligent recipe suggestions.
+The platform supports ingredient-based search, dynamic recipe generation, personalized recommendations and responsive user interfaces.
 
-**Engineering Focus:**
-`Next.js` · `React.js` · `Strapi` · `PostgreSQL` · `Gemini API` · `Tailwind CSS`
+**Core Engineering:**
+`Next.js` · `React.js` · `Strapi` · `PostgreSQL` · `Tailwind CSS` · `Gemini API`
 
 </details>
 
 <details>
 <summary><strong>03 · Breast Cancer Prediction</strong></summary>
 
+<br/>
+
 ### Breast Cancer Prediction
 
-A machine learning application that classifies breast tumors as **malignant or benign** using clinical diagnostic features.
+A machine learning web application that classifies tumors as malignant or benign based on clinical diagnostic features.
 
-| Metric          | Engineering Details                                                                |
-| :-------------- | :--------------------------------------------------------------------------------- |
-| **Stack**       | Python · Scikit-learn · Machine Learning · Streamlit · Streamlit Cloud             |
-| **Scale**       | End-to-end machine learning classification pipeline                                |
-| **Performance** | Compared multiple classification models and optimized evaluation metrics           |
-| **Security**    | Structured preprocessing and controlled model inference                            |
-| **Impact**      | Demonstrates practical application of machine learning to clinical diagnostic data |
-| **Repository**  | [View Repository](https://github.com/AkhilBuddhi22)                                |
+| Metric          | Engineering Details                                                           |
+| :-------------- | :---------------------------------------------------------------------------- |
+| **Stack**       | Python · Scikit-learn · Streamlit · Streamlit Cloud                           |
+| **Scale**       | End-to-end machine learning classification application                        |
+| **Performance** | Model comparison, cross-validation and hyperparameter tuning                  |
+| **Security**    | Controlled preprocessing and model inference workflow                         |
+| **Impact**      | Demonstrates practical application development using clinical diagnostic data |
+| **Repository**  | [View Repository](https://github.com/AkhilBuddhi22)                           |
 
-### Professional Engineering Explanation
+### Professional Project Explanation
 
-The project implements a complete machine learning workflow beginning with **data preprocessing and feature scaling**, followed by model training, comparison and optimization.
+The project uses clinical diagnostic features to build a classification model capable of distinguishing malignant and benign tumors.
 
-Multiple classification algorithms including **Logistic Regression, Random Forest and Support Vector Machine** were evaluated. Cross-validation and hyperparameter tuning were used to select the best-performing model based on precision, recall and F1-score.
+Multiple algorithms including **Logistic Regression, Random Forest and SVM** were compared using cross-validation.
 
-The final application was deployed using **Streamlit Cloud**, providing an interactive interface for model predictions.
+Feature preprocessing and scaling were applied before training. Hyperparameter tuning was used to select a model with optimized precision, recall and F1-score.
 
-**Engineering Focus:**
-`Machine Learning` · `Scikit-learn` · `Classification` · `Feature Scaling` · `Cross Validation` · `Hyperparameter Tuning` · `Streamlit`
+The application was deployed using **Streamlit Cloud**.
+
+**Core Engineering:**
+`Python` · `Scikit-learn` · `Machine Learning` · `Classification` · `Cross Validation` · `Streamlit`
 
 </details>
 
@@ -199,22 +206,22 @@ The final application was deployed using **Streamlit Cloud**, providing an inter
 **CodSoft**
 `August 2025 — September 2025`
 
-Worked on practical Python development tasks with an emphasis on **data structures, algorithms, GUI development and real-world software workflows**.
+Worked on practical Python development tasks involving command-line applications, GUI development, data structures, algorithms and real-world software workflows.
 
 **Scope of Work**
 
 * Developed command-line applications using Python.
-* Applied data structures and algorithms to medium-to-hard programming tasks.
+* Applied data structures and algorithms to medium-to-hard programming problems.
 * Built GUI applications using Tkinter.
 * Simulated real-world software workflows through interactive applications.
-* Implemented project-based solutions focused on practical problem solving.
-* Strengthened logical reasoning and algorithmic thinking through hands-on development.
+* Implemented project-based programming solutions.
+* Strengthened logical thinking and problem-solving abilities.
 * Gained practical experience with Python libraries and frameworks.
-* Transitioned from theoretical programming concepts to applied software development.
+* Applied programming concepts beyond theoretical implementation.
 
 **Skills**
 
-`Python` `Data Structures` `Algorithms` `Tkinter` `GUI Development` `Problem Solving` `Application Development`
+`Python` `Data Structures` `Algorithms` `Tkinter` `GUI Development` `Problem Solving`
 
 ---
 
@@ -222,16 +229,15 @@ Worked on practical Python development tasks with an emphasis on **data structur
 
 <div align="center">
 
-|         Recognition         | Details                                                         |
-| :-------------------------: | :-------------------------------------------------------------- |
-|         **LeetCode**        | 380+ problems solved                                            |
-|         **CodeChef**        | Rating: 1202                                                    |
-|      **GeeksforGeeks**      | 186 problems solved                                             |
-|        **HackerRank**       | Rating: 1361                                                    |
-|      **AWS Certified**      | AWS Certified Cloud Practitioner                                |
-|     **Azure Certified**     | Microsoft Certified: Azure Fundamentals                         |
-| **Competitive Programming** | Hands-on experience solving medium-to-hard algorithmic problems |
-|    **AI/ML Engineering**    | Developed applied machine learning and AI-powered applications  |
+|    Recognition    | Details                                 |
+| :---------------: | :-------------------------------------- |
+|    **LeetCode**   | 380+ Problems Solved                    |
+| **GeeksforGeeks** | 186 Problems Solved                     |
+|   **HackerRank**  | 1361 Rating                             |
+|    **CodeChef**   | 1202 Rating                             |
+|      **AWS**      | AWS Certified Cloud Practitioner        |
+|   **Microsoft**   | Microsoft Certified: Azure Fundamentals |
+|      **NSIC**     | Data Science Internship Participation   |
 
 </div>
 
@@ -242,19 +248,19 @@ Worked on practical Python development tasks with an emphasis on **data structur
 ### AWS
 
 <a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
 ### MICROSOFT AZURE
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"/>
 </a>
 
 ### NSIC
 
 <a href="https://www.nsic.co.in/">
-<img src="https://img.shields.io/badge/NSIC-Data%20Science%20Internship-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NSIC-Data%20Science%20Internship-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="NSIC Data Science Internship"/>
 </a>
 
 ---
@@ -264,19 +270,19 @@ Worked on practical Python development tasks with an emphasis on **data structur
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-380%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/LeetCode-380%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="42" alt="LeetCode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-186-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-186%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="42" alt="GeeksforGeeks"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-1361-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/HackerRank-1361%20Rating-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111111" height="42" alt="HackerRank"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-1202-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/CodeChef-1202%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="42" alt="CodeChef"/>
 </a>
 
 </div>
@@ -288,17 +294,17 @@ Worked on practical Python development tasks with an emphasis on **data structur
 <div align="center">
 
 <a href="https://github.com/AkhilBuddhi22">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AkhilBuddhi22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkhilBuddhi22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/AkhilBuddhi22">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilBuddhi22&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilBuddhi22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=A78BFA" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/AkhilBuddhi22">
-<img width="70%" src="https://streak-stats.demolab.com?user=AkhilBuddhi22&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6&sideNums=E9D5FF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=AkhilBuddhi22&theme=tokyonight&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -309,7 +315,7 @@ Worked on practical Python development tasks with an emphasis on **data structur
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkhilBuddhi22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=AkhilBuddhi22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -320,7 +326,7 @@ Worked on practical Python development tasks with an emphasis on **data structur
 <div align="center">
 
 <a href="https://github.com/AkhilBuddhi22">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilBuddhi22&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilBuddhi22&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=AkhilBuddhi22%27s%20Contribution%20Graph" alt="GitHub Contribution Activity"/>
 </a>
 
 </div>
@@ -331,7 +337,7 @@ Worked on practical Python development tasks with an emphasis on **data structur
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AkhilBuddhi22/AkhilBuddhi22/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img width="95%" src="https://raw.githubusercontent.com/AkhilBuddhi22/AkhilBuddhi22/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -342,33 +348,33 @@ Worked on practical Python development tasks with an emphasis on **data structur
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms
-  - Machine Learning Engineering
   - Full Stack Architecture
-  - Cloud Computing
-  - Advanced Java and Python Development
+  - Modern JavaScript
+  - Backend Development
+  - Cloud Development
 
 Building:
-  - AI-Powered Web Applications
-  - Full Stack Products
-  - Machine Learning Applications
-  - Scalable Software Solutions
+  - Full Stack Web Applications
+  - AI-Powered Web Products
+  - Scalable Backend Systems
+  - Modern User Interfaces
 
 Exploring:
-  - Generative AI
-  - OpenAI API
-  - Gemini API
-  - AWS Cloud
+  - Next.js
+  - React.js
+  - Node.js
+  - PostgreSQL
+  - AWS
   - Azure
   - Modern Web Architecture
 
 Open To:
-  - Software Engineering Opportunities
-  - AI/ML Engineering Opportunities
-  - Full Stack Development
-  - Backend Engineering
-  - Cloud Engineering
+  - Full Stack Developer Roles
+  - Frontend Developer Roles
+  - Backend Developer Roles
+  - Web Development Opportunities
+  - Cloud Development
   - Open Source Collaboration
-  - Product Engineering
 ```
 
 ---
@@ -378,19 +384,19 @@ Open To:
 <div align="center">
 
 <a href="mailto:akhilbuddhi22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-akhilbuddhi22%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-akhilbuddhi22%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Akhil%20Buddhi-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AkhilBuddhi22">
-<img src="https://img.shields.io/badge/GitHub-AkhilBuddhi22-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/akhil-buddhi/">
+<img src="https://img.shields.io/badge/LinkedIn-Akhil%20Buddhi-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/AkhilBuddhi22">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AkhilBuddhi22-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/AkhilBuddhi22">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -400,15 +406,15 @@ Open To:
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer&text=Build%20with%20Purpose.%20Engineer%20with%20Precision.&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="Footer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer&text=Build%20with%20Purpose.%20Code%20with%20Precision.&fontSize=20&fontColor=FFFFFF&fontAlignY=65" alt="Footer"/>
 </a>
 
 <br/>
 
-<strong>“Great software is not only engineered to work — it is engineered to solve.”</strong>
+<strong>“Great software is built with clarity, consistency, and purpose.”</strong>
 
 <br/><br/>
 
-<sub>Software Engineering · AI/ML · Full Stack · Cloud · Competitive Programming</sub>
+<sub>Full Stack Development · Web Development · Cloud · Competitive Programming</sub>
 
 </div>
